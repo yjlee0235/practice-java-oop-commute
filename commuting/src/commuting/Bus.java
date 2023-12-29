@@ -1,4 +1,5 @@
-package dev.syntax.commuting;
+package commuting;
+
 
 public class Bus {
 	private static final int BUS_FARE = 1000;

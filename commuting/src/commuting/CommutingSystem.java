@@ -1,4 +1,5 @@
-package dev.syntax.commuting;
+package commuting;
+
 
 public class CommutingSystem {
 	public static void main(String[] args) {

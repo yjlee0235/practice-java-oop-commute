@@ -1,4 +1,5 @@
-package dev.syntax.commuting;
+package commuting;
+
 
 public class Subway {
 	private static final int SUBWAY_FARE = 1200;

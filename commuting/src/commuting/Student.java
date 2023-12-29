@@ -1,4 +1,5 @@
-package dev.syntax.commuting;
+package commuting;
+
 
 public class Student {
 	private String name;
